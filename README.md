@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @adib2004
-- 👀 This is a startup landing page consisting of an email subscription form 
 - 🌱 I’m currently learning web development
 - 
 
